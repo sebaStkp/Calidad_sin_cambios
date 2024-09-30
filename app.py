@@ -25,7 +25,7 @@ usuarios = db["Usuarios"]
 productos=db["Productos"]
 pedidos=db["Pedidos"]
 carrito=db["Carrito"]
-app.secret_key = 'fsdhjfjdshfjksdhgsdh'
+app.secret_key = 'fsdhjfjdshfjksdhgsdsh'
 
 
 ##############
